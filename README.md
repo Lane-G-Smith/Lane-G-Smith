@@ -177,7 +177,7 @@ I was a whitewater raft guide near Yosemite & Grand Canyon National Parks.<br>
 I was a backcountry snowmobile guide in the Sierra Nevada Mountains.<br>
 I ran a small boat marina and lived for 6 years at over 10,000ft elevation.<br>
 I am decent at playing the guitar, bass, piano & drums. I also sing....terribly.<br>
-I was a Certified Nursing Assistant & EMT with wilderness EMT & first-responser certifications.<br>
+I was a Certified Nursing Assistant & EMT with wilderness-EMT & first-responser certifications.<br>
 I was a straight-A pre-med student, but in my last semester, I decided NOT to go to medical school.
 <h3 align="left">What I'm currently working on</h3>
 <h4 align="left">Open-For-Business, a full stack web application for my own business that will feature:</h4>
