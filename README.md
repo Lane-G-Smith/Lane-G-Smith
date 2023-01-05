@@ -187,7 +187,7 @@ I was a straight A student in my last semester of undergrad when I decided NOT t
 -Manage contracts & contacts<br>
 -Scheduling with integration of the google calendar API<br>
 -Financial charts and bookkeeping functionality<br>
--Action based creative flow pipeline.
+-Milestone based creative flow pipeline.
 <h4 align="left">Contiuing education through online learning platforms such as:</h4>
 -The Odin Project<br>
 -Free Code Camp<br>
