@@ -180,14 +180,14 @@ I am decent at playing the guitar, bass, piano & drums. I also sing....terribly.
 I was a Certified Nursing Assistand & EMT with wilderness first-responser certifications.<br>
 I was a straight A student in my last semester of undergrad when I decided NOT to go to medical school.
 <h3 align="left">What I'm currently working on</h3>
-<h4 align="left">Open-For-Business, a full stack web application for my own business which will feature:</h4>
--storage and organization of photo and video files<br>
--authentication for clients to access and download photo & video files<br>
--seamless presentation and manipulation of photo & video content on business website<br>
+<h4 align="left">Open-For-Business, a full stack web application for my own business that will feature:</h4>
+-Storage and organization of photo and video files<br>
+-Authentication for clients to access and download photo & video files<br>
+-Seamless presentation and manipulation of photo & video content on business website<br>
 -Manage contracts & contacts<br>
--scheduling with integration of the google calendar API<br>
+-Scheduling with integration of the google calendar API<br>
 -Financial charts and bookkeeping functionality<br>
--action based creative flow pipeline.
+-Action based creative flow pipeline.
 <h4 align="left">Contiuing education through online learning platforms such as:</h4>
 -The Odin Project<br>
 -Free Code Camp<br>
