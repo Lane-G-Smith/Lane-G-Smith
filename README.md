@@ -167,18 +167,18 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lane-G-Smith&show_icons=true&locale=en&layout=compact" alt="Lane-G-Smith">
 <p align="left">
 I am originally from California but currently live in Sedona Arizona.<br>
-I started programming in mid 2022 as a means to fix my photography business website.<br>
+I started programming in mid-2022 as a means to fix my photography business website.<br>
 I found programming to be enjoyable, so I'm switching careers to develop full time.<br>
 I am new and still learning, but progressing every day.<br>
 I am open to collaboration, networking & volunteering.<br>
-I am acvtively looking for work opportunities.<br>
+I am actively looking for work opportunities.<br>
 <h3>Interesting Facts About Me*</h3>
 I was a whitewater raft guide near Yosemite & Grand Canyon National Parks.<br>
 I was a backcountry snowmobile guide in the Sierra Nevada Mountains.<br>
 I ran a small boat marina and lived for 6 years at over 10,000ft elevation.<br>
 I am decent at playing the guitar, bass, piano & drums. I also sing....terribly.<br>
-I was a Certified Nursing Assistand & EMT with wilderness first-responser certifications.<br>
-I was a straight A student in my last semester of undergrad when I decided NOT to go to medical school.
+I was a Certified Nursing Assistant & EMT with wilderness first-responser certifications.<br>
+I was a straight-A pre-med student, but in my last semester I decided NOT to go to medical school.
 <h3 align="left">What I'm currently working on</h3>
 <h4 align="left">Open-For-Business, a full stack web application for my own business that will feature:</h4>
 -Storage and organization of photo and video files<br>
