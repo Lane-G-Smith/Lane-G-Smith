@@ -2,7 +2,7 @@
 
 <h2 align="center">Self-Employed, Photographer, Videographer, Musician, Outdoorsman, Developer</h2>
 # 🔧 Technologies & Tools I Use
-<table color="red">
+<table>
   <tr>
     <td align="center" height="108" width="108">
       <img
