@@ -168,7 +168,7 @@
 <p align="left">
 I am originally from California but currently live in Sedona Arizona.<br>
 I started programming in mid-2022 as a means to fix my photography business website.<br>
-I found programming to be enjoyable, so it is now my hope to switch careers and develop full-time with a focus on using modern javascript frameworks on the front end.<br>
+I hope to switch careers and develop full-time with a focus on the front end using modern javascript frameworks.<br>
 I am new and still learning, but progressing every day.<br>
 I am open to collaboration, networking & volunteering.<br>
 I am actively looking for work opportunities.<br>
