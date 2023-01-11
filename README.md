@@ -153,6 +153,79 @@
         <br /><strong>NextJS</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+        <img
+        src="https://www.svgrepo.com/show/341633/babel.svg"
+        width="48"
+        height="48"
+        />
+        <br /><strong>Babel</strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+        src="https://raw.githubusercontent.com/webpack/media/3e52c178e6ad2428585a2cbf5d22d6dbe0697f0f/logo/icon-square-big.svg"
+        width="48"
+        height="48"
+        />
+        <br /><strong>Webpack</strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+        src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"
+        width="48"
+        height="48"
+        />
+        <br /><strong>SASS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br /><strong></strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br /><strong></strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br /><strong></strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br /><strong></strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br /><strong></strong>
+    </td>
+        <td align="center" height="108" width="108">
+        <img     src=""
+        width="48"
+        height="48"
+        />
+        <br /><strong></strong>
+    </td>
+  </tr>
 </table>
 
 # 📈 GitHub Stats
