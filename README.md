@@ -43,23 +43,7 @@
         height="48"
         />
         <br /><strong>Bootstrap</strong>
-    <td align="center" height="108" width="108">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        />
-        <br /><strong>Jest</strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        />
-        <br /><strong>Npm</strong>
     </td> 
-    </td>
     <td align="center" height="108" width="108">
         <img
         src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"
@@ -75,6 +59,30 @@
         height="48"
         />
         <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        />
+        <br /><strong>Npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        width="48"
+        height="48"
+        />
+        <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+        src="https://raw.githubusercontent.com/webpack/media/3e52c178e6ad2428585a2cbf5d22d6dbe0697f0f/logo/icon-square-big.svg"
+        width="48"
+        height="48"
+        />
+        <br /><strong>Webpack</strong>
     </td>
   </tr>
 </table>
@@ -164,66 +172,11 @@
     </td>
     <td align="center" height="108" width="108">
         <img
-        src="https://raw.githubusercontent.com/webpack/media/3e52c178e6ad2428585a2cbf5d22d6dbe0697f0f/logo/icon-square-big.svg"
-        width="48"
-        height="48"
-        />
-        <br /><strong>Webpack</strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img
         src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"
         width="48"
         height="48"
         />
         <br /><strong>SASS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img
-        src=""
-        width="48"
-        height="48"
-        />
-        <br /><strong></strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img
-        src=""
-        width="48"
-        height="48"
-        />
-        <br /><strong></strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img
-        src=""
-        width="48"
-        height="48"
-        />
-        <br /><strong></strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img
-        src=""
-        width="48"
-        height="48"
-        />
-        <br /><strong></strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img
-        src=""
-        width="48"
-        height="48"
-        />
-        <br /><strong></strong>
-    </td>
-        <td align="center" height="108" width="108">
-        <img     src=""
-        width="48"
-        height="48"
-        />
-        <br /><strong></strong>
     </td>
   </tr>
 </table>
