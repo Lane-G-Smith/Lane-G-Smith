@@ -160,16 +160,6 @@
         />
         <br /><strong>NextJS</strong>
     </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-        <img
-        src="https://www.svgrepo.com/show/341633/babel.svg"
-        width="48"
-        height="48"
-        />
-        <br /><strong>Babel</strong>
-    </td>
     <td align="center" height="108" width="108">
         <img
         src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"
