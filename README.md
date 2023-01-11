@@ -158,13 +158,13 @@
 # 📈 GitHub Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Lane-G-Smith&show_icons=true&theme=react&&hide_border=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lane-G-Smith&show_icons=true&theme=react&&hide_border=true"
 />
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Lane-G-Smith&&theme=react&&hide_border=true"
 />
 <h3 align="left">Who Am I?</h3>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lane-G-Smith&show_icons=true&locale=en&layout=compact" alt="Lane-G-Smith">
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Lane-G-Smith&show_icons=true&locale=en&layout=compact" alt="Lane-G-Smith">
 <p align="left">
 I am originally from California but currently live in Sedona Arizona.<br>
 I started programming in mid-2022 as a means to fix my photography business website.<br>
@@ -178,7 +178,8 @@ I was a backcountry snowmobile guide in the Sierra Nevada Mountains.<br>
 I ran a small boat marina and lived for 6 years at over 10,000ft elevation.<br>
 I am decent at playing the guitar, bass, piano & drums. I also sing....terribly.<br>
 I was a Certified Nursing Assistant & EMT with wilderness-EMT & first-responser certifications.<br>
-I was a pre-med student on the Dean's list for academic achievement at Northern Arizona University when in my last semester, I decided that medical school wasn't for me.
+I was a pre-med student on the Dean's list for academic achievement at Northern Arizona University.
+I ultimately decided not to pursue a career in healthcare after expure to the industry.<br>
 <h3 align="left">What I'm currently working on</h3>
 <h4 align="left">Open-For-Business, a full stack web application for my own business that will feature:</h4>
 -Storage and organization of photo and video files<br>
