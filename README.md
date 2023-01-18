@@ -217,8 +217,10 @@ I ultimately decided not to pursue a career in healthcare after expure to the in
 -The Odin Project<br>
 -Free Code Camp<br>
 -Full Stack Open<br>
--Udemy (Maximilian Schwarzmuller, Angela Yu)<br>
--Youtube (Traversy Media, The Net Ninja, Web Dev Simplified)
+-HackerRank<br>
+-LeetCode<br>
+-Udemy (Maximilian Schwarzmuller, Angela Yu, Colt Steele)<br>
+-Youtube (Traversy Media, The Net Ninja, Web Dev Simplified)<br>
 </p>
 <h3 align="left">Connect with me:</h3>
 <table>
