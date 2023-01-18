@@ -10,7 +10,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>HTML5</strong>
+        <br/><strong>HTML5</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -18,7 +18,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>CSS3</strong>
+        <br/><strong>CSS3</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -26,7 +26,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>JavaScript</strong>
+        <br/><strong>JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -34,7 +34,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Git</strong>
+        <br/><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -42,7 +42,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Bootstrap</strong>
+        <br/><strong>Bootstrap</strong>
     </td> 
     <td align="center" height="108" width="108">
         <img
@@ -50,7 +50,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Tailwind</strong>
+        <br/><strong>Tailwind</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -58,7 +58,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Node.js</strong>
+        <br/><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -66,7 +66,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Npm</strong>
+        <br/><strong>Npm</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -74,7 +74,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Jest</strong>
+        <br/><strong>Jest</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -82,7 +82,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Webpack</strong>
+        <br/><strong>Webpack</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -90,7 +90,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Babel</strong>
+        <br/><strong>Babel</strong>
     </td>
   </tr>
 </table>
@@ -103,7 +103,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>React</strong>
+        <br/><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -111,7 +111,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Redux</strong>
+        <br/><strong>Redux</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -119,7 +119,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Material UI</strong>
+        <br/><strong>Material UI</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -127,7 +127,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>TypeScript</strong>
+        <br/><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -135,7 +135,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Express</strong>
+        <br/><strong>Express</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -143,7 +143,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>MongoDB</strong>
+        <br/><strong>MongoDB</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -151,7 +151,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>PostgreSQL</strong>
+        <br/><strong>PostgreSQL</strong>
     </td>
     <td align="center" height="108" width="108">
         <img
@@ -159,7 +159,7 @@
         width="48"
         height="48"
         />
-        <br /><strong>Firebase</strong>
+        <br/><strong>Firebase</strong>
     </td>
         <td align="center" height="108" width="108">
         <img     src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67"
@@ -227,31 +227,31 @@ I ultimately decided not to pursue a career in healthcare after expure to the in
   <tr>
     <td align="center" height="108" width="108">
         <a href="https://www.linkedin.com/in/lane-s-244ba9258/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lane Smith Linkedin" height="45" width="55"/></a> 
-        <br /><strong>LinkedIn</strong>
+        <br/><strong>LinkedIn</strong>
     </td>
      <td align="center" height="108" width="108">
         <a href="https://www.hackerrank.com/Lane_G_Smith?hr_r=1"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@Lane-G-Smith" height="55" width="55" /></a>
-       <br /><strong>Hacker Rank</strong>
+       <br/><strong>Hacker Rank</strong>
     </td>
     <td align="center" height="108" width="108">
        <a href="https://leetcode.com/Lane_G_Smith"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/102px-LeetCode_logo_white_no_text.svg.png?20200120234911" alt="@Lane-G-Smith" height="55" width="55" /></a> 
-       <br /><strong>LeetCode</strong>
+       <br/><strong>LeetCode</strong>
     </td>
     <td align="center" height="108" width="100">
        <a href="https://www.instagram.com/lanegpersonal/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="45" width="55"/></a>
-       <br /><strong>Instagram</strong>
+       <br/><strong>Instagram</strong>
     </td>
     <td align="center" height="108" width="108">
       <a href="https://codepen.io/lane-g-smith" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@Lane-G-Smith" height="45" width="55" /></a> 
-        <br /><strong>Code Pen</strong>
+        <br/><strong>Code Pen</strong>
     </td>
     <td align="center" height="108" width="108">
         <a href="mailto:lanegphotography@gmail.com?" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Lane Smith Gmail" height="45" width="55"/></a> 
-        <br /><strong>My Photography</strong>
+        <br/><strong>My Photography</strong>
     </td>
     <td align="center" height="108" width="108">
         <a href="https://stackoverflow.com/users/20933021/lane-g-smith" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Lane Smith" height="60" width="70" /></a>
-        <br /><strong>Stack Overflow</strong>
+        <br/><strong>Stack Overflow</strong>
     </td> 
   </tr>
 </table>
