@@ -2,9 +2,9 @@
 
 <h2 align="center">Photographer, Videographer, Musician, Outdoorsman, Developer</h2>
 # 🔧 Technologies & Tools I Use
-<table>
+<table height="120px">
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" width="100px">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
@@ -12,7 +12,7 @@
         />
         <br/><strong>HTML5</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
@@ -20,7 +20,7 @@
         />
         <br/><strong>CSS3</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
@@ -28,7 +28,7 @@
         />
         <br/><strong>JavaScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
@@ -36,7 +36,7 @@
         />
         <br/><strong>Git</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
@@ -44,7 +44,7 @@
         />
         <br/><strong>Bootstrap</strong>
     </td> 
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"
         width="48"
@@ -52,7 +52,7 @@
         />
         <br/><strong>Tailwind</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
@@ -60,7 +60,7 @@
         />
         <br/><strong>Node.js</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
         width="48"
@@ -68,7 +68,7 @@
         />
         <br/><strong>Npm</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
@@ -76,7 +76,7 @@
         />
         <br/><strong>Jest</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://raw.githubusercontent.com/webpack/media/3e52c178e6ad2428585a2cbf5d22d6dbe0697f0f/logo/icon-square-big.svg"
         width="48"
@@ -84,7 +84,7 @@
         />
         <br/><strong>Webpack</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg"
         width="48"
@@ -95,9 +95,9 @@
   </tr>
 </table>
 # 🔧 Technologies & Tools I Am Learning To Use
-<table>
+<table height="120px">
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
@@ -105,7 +105,7 @@
         />
         <br/><strong>React</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
@@ -113,7 +113,7 @@
         />
         <br/><strong>Redux</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         width="48"
@@ -121,7 +121,7 @@
         />
         <br/><strong>Material UI</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="48"
@@ -129,7 +129,7 @@
         />
         <br/><strong>TypeScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
@@ -137,7 +137,7 @@
         />
         <br/><strong>Express</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         width="48"
@@ -145,7 +145,7 @@
         />
         <br/><strong>MongoDB</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="48"
@@ -153,7 +153,7 @@
         />
         <br/><strong>PostgreSQL</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
         width="48"
@@ -161,14 +161,14 @@
         />
         <br/><strong>Firebase</strong>
     </td>
-        <td align="center" height="108" width="108">
+        <td align="center" width="108">
         <img     src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67"
         width="48"
         height="48"
         />
         <br /><strong>NextJS</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" width="108">
         <img
         src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"
         width="48"
