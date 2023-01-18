@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Lane G Smith</h1>
 
-<h2 align="center">Self-Employed, Photographer, Videographer, Musician, Outdoorsman, Developer</h2>
+<h2 align="center">Photographer, Videographer, Musician, Outdoorsman, Developer</h2>
 # 🔧 Technologies & Tools I Use
 <table>
   <tr>
@@ -83,6 +83,14 @@
         height="48"
         />
         <br /><strong>Webpack</strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+        src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg"
+        width="48"
+        height="48"
+        />
+        <br /><strong>Babel</strong>
     </td>
   </tr>
 </table>
