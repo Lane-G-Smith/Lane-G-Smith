@@ -224,6 +224,22 @@ I ultimately decided not to pursue a career in healthcare after expure to the in
 <table>
   <tr>
     <td align="center" height="108" width="108">
+        <a href="https://www.linkedin.com/in/lane-s-244ba9258/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lane Smith Linkedin" height="45" width="55"/></a> 
+        <br /><strong>LinkedIn</strong>
+    </td>
+     <td align="center" height="108" width="108">
+        <a href="https://www.hackerrank.com/Lane_G_Smith?hr_r=1"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@Lane-G-Smith" height="55" width="55" /></a>
+       <br /><strong>Hacker Rank</strong>
+    </td>
+    <td align="center" height="108" width="108">
+       <a href="https://leetcode.com/Lane_G_Smith"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/102px-LeetCode_logo_white_no_text.svg.png?20200120234911" alt="@Lane-G-Smith" height="55" width="55" /></a> 
+       <br /><strong>LeetCode</strong>
+    </td>
+    <td align="center" height="108" width="100">
+       <a href="https://www.instagram.com/lanegpersonal/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="45" width="55"/></a>
+       <br /><strong>Instagram</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <a href="https://codepen.io/lane-g-smith" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@Lane-G-Smith" height="45" width="55" /></a> 
         <br /><strong>Code Pen</strong>
     </td>
@@ -232,20 +248,8 @@ I ultimately decided not to pursue a career in healthcare after expure to the in
         <br /><strong>My Photography</strong>
     </td>
     <td align="center" height="108" width="108">
-        <a href="https://www.linkedin.com/in/lane-s-244ba9258/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lane Smith Linkedin" height="45" width="55"/></a> 
-        <br /><strong>LinkedIn</strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <a href="https://www.instagram.com/lanegpersonal/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="45" width="55"/></a>
-        <br /><strong>Instagram</strong>
-    </td>
-    <td align="center" height="108" width="108">
         <a href="https://stackoverflow.com/users/20933021/lane-g-smith" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Lane Smith" height="60" width="70" /></a>
         <br /><strong>Stack Overflow</strong>
     </td> 
-    <td align="center" height="108" width="108">
-        <a href="https://www.hackerrank.com/Lane_G_Smith?hr_r=1"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@Lane-G-Smith" height="55" width="55" /></a> 
-        <br /><strong>Hacker Rank</strong>
-    </td>
   </tr>
 </table>
