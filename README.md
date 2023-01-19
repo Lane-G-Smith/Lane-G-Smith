@@ -242,7 +242,7 @@ I ultimately decided not to pursue a career in healthcare after expure to the in
        <br/><strong>Instagram</strong>
     </td>
     <td align="center" height="105" width="105">
-      <a href="https://codepen.io/lane-g-smith" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@Lane-G-Smith" height="48" width="48" /></a> 
+      <a href="https://codepen.io/lane-g-smith" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/codepen.svg" alt="@Lane-G-Smith" height="48" width="48" /></a> 
         <br/><strong>Code Pen</strong>
     </td>
     <td align="center" height="105" width="105">
