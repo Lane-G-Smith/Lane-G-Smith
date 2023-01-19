@@ -2,10 +2,10 @@
 
 <h2 align="center">Photographer, Videographer, Musician, Outdoorsman, Developer</h2>
 # 🔧 Technologies & Tools I Use
-<table>
-  <tr>
-    <td align="center" height="105" width="105px">
-      <img
+<table >
+  <tr background-color="white">
+    <td background-color="white" align="center" height="105" width="105px">
+      <img background-color="#fff"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
         height="48"
