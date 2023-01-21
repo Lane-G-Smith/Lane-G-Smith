@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Lane G Smith</h1>
+<h1 lign="center">Hello! I'm Lane G Smith</h1>
 
 <h2 align="center">Photographer, Videographer, Musician, Outdoorsman, Developer</h2>
 # 🔧 Technologies & Tools I Use
