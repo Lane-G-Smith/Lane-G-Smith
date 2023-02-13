@@ -3,8 +3,8 @@
 <h2 align="center">Photographer, Videographer, Musician, Outdoorsman, Developer</h2>
 # 🔧 Technologies & Tools I Use
 <table >
-  <tr background-color="white">
-    <td background-color="white" align="center" height="105" width="105px">
+  <tr>
+    <td align="center" height="105" width="105">
       <img background-color="#fff"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
@@ -91,6 +91,96 @@
         height="48"
         />
         <br/><strong>Babel</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="105" width="105">
+      <img background-color="#fff"
+        src="https://avatars.githubusercontent.com/u/83887584?s=200&v=4"
+        width="48"
+        height="48"
+        />
+        <br/><strong>Dotenv</strong>
+    </td>
+    <td align="center" height="105" width="105">
+        <img
+        src="https://openai.com/content/images/2022/05/openai-avatar.png"
+        width="48"
+        height="48"
+        />
+        <br/><strong>OpenAI</strong>
+    </td>
+    <td align="center" height="105" width="105">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="105" width="105">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="105" width="105">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br/><strong></strong>
+    </td> 
+    <td align="center" height="105" width="105">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="105" width="105">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="105" width="105">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="105" width="105">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="105" width="105">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="105" width="105">
+        <img
+        src=""
+        width="48"
+        height="48"
+        />
+        <br/><strong></strong>
     </td>
   </tr>
 </table>
