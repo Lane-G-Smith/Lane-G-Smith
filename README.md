@@ -26,7 +26,7 @@
         width="48"
         height="48"
         />
-        <br/><strong>JavaScript</strong>
+        <br/><strong>JavaScript ES6</strong>
     </td>
     <td align="center" height="105" width="105">
         <img
