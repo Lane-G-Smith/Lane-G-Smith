@@ -190,7 +190,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Lane-G-Smith&show_icons=true&&theme=react&&hide_border=true" alt="Lane-G-Smith"
 />
   </div>
-<h3 align="left">Who Am I?</h3>
+<h3 align="left">About Me</h3>
 <p align="left">
 I am originally from California but currently live in Sedona Arizona.<br>
 I started programming in mid-2022 as a means to fix my photography business website.<br>
