@@ -248,7 +248,7 @@ In my last semester, I decided that medical school wasn't for me.<br>
         <br/><strong>Code Pen</strong>
     </td>
     <td align="center" height="105" width="105">
-        <a href="mailto:lanegphotography@gmail.com?" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Lane Smith Gmail" height="48" width="48"/></a> 
+        <a href="https://www.lanegphotography.com/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Lane Smith Gmail" height="48" width="48"/></a> 
         <br/><strong>My Photography</strong>
     </td>
     <td align="center" height="105" width="105">
