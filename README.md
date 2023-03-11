@@ -26,7 +26,7 @@
         width="48"
         height="48"
         />
-        <br/><strong>ECMAScript6</strong>
+        <br/><strong>ES6</strong>
     </td>
     <td align="center" height="105" width="105">
         <img
@@ -92,14 +92,9 @@
         />
         <br/><strong>Babel</strong>
     </td>
-  </tr>
-</table>
-# 🔧 Technologies & Tools I Am Learning To Use
-<table>
-  <tr>
     <td align="center" height="105" width="105">
         <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrFe3PX-Sd8qEB8RrRE1dr4C2g06UDu0lxMw&usqp=CAU"
+        src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"
         width="48"
         height="48"
         />
@@ -112,7 +107,12 @@
         height="48"
         />
         <br/><strong>React</strong>
-    </td>
+    </td
+  </tr>
+</table>
+# 🔧 Technologies & Tools I Am Learning To Use
+<table>
+  <tr>
     <td align="center" height="105" width="105">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
