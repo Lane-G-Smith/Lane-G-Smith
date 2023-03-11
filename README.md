@@ -228,7 +228,7 @@ In my last semester, I decided that medical school wasn't for me.<br>
 <table>
   <tr>
     <td align="center" height="105" width="105">
-        <a href="https://www.linkedin.com/in/lane-s-244ba9258/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lane Smith Linkedin" height="48" width="48"/></a> 
+        <a href="https://www.linkedin.com/in/lane-g-smith" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lane Smith Linkedin" height="48" width="48"/></a> 
         <br/><strong>LinkedIn</strong>
     </td>
      <td align="center" height="105" width="105">
