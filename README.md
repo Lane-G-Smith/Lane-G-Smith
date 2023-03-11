@@ -99,6 +99,14 @@
   <tr>
     <td align="center" height="105" width="105">
         <img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrFe3PX-Sd8qEB8RrRE1dr4C2g06UDu0lxMw&usqp=CAU"
+        width="48"
+        height="48"
+        />
+        <br/><strong>Vite</strong>
+    </td>
+    <td align="center" height="105" width="105">
+        <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
