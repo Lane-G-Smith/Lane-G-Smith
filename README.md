@@ -72,6 +72,13 @@
   <tr>
     <td align="center" height="105" width="105">
         <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/1024px-Google_Chrome_icon_%28September_2014%29.svg.png"
+        width="48"
+        height="48"
+        />
+        <br/><strong>DevTools</strong>
+    <td align="center" height="105" width="105">
+        <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
         height="48"
