@@ -60,6 +60,8 @@
         />
         <br/><strong>Node.js</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="105" width="105">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
@@ -68,8 +70,6 @@
         />
         <br/><strong>Npm</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="105" width="105">
         <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/1024px-Google_Chrome_icon_%28September_2014%29.svg.png"
