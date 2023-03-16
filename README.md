@@ -1,8 +1,9 @@
 <h1 align="center">Hello! I'm Lane G Smith</h1>
-
 <h2 align="center">Photographer, Videographer, Developer, Musician, Outdoorsman</h2>
 # 🔧 Technologies & Tools I Use
-<table >
+<br>
+<br>
+<table width="630">
   <tr>
     <td align="center" height="90" width="90">
       <img background-color="#fff"
@@ -120,6 +121,8 @@
   </tr>
 </table>
 # 🔧 Technologies & Tools I Am Learning To Use
+<br>
+<br>
 <table>
   <tr>
     <td align="center" height="90" width="90">
@@ -195,17 +198,13 @@
     </td>
   </tr>
 </table>
-
 # 📈 GitHub Stats
+<br>
+<br>
 <div display="flex">
-<img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lane-G-Smith&show_icons=true&theme=react&&hide_border=true"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Lane-G-Smith&&theme=react&&hide_border=true"
-/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Lane-G-Smith&show_icons=true&&theme=react&&hide_border=true" alt="Lane-G-Smith"
-/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lane-G-Smith&show_icons=true&theme=react&&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lane-G-Smith&&theme=react&&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Lane-G-Smith&show_icons=true&&theme=react&&hide_border=true" alt="Lane-G- Smith"/>
   </div>
 <h3 align="left">About Me</h3>
 <p align="left">
@@ -241,39 +240,41 @@ In my last semester, I decided that medical school wasn't for me.<br>
 -Udemy (Maximilian Schwarzmuller, Angela Yu, Colt Steele)<br>
 -Youtube (Traversy Media, The Net Ninja, Web Dev Simplified)<br>
 </p>
-<h3 align="left">Connect with me:</h3>
+# 👋 Connect with me
+<br>
+<br>
 <table>
   <tr>
-    <td align="center" height="105" width="105">
-        <a href="https://www.linkedin.com/in/lane-g-smith" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lane Smith Linkedin" height="48" width="48"/></a> 
+    <td align="center" height="90" width="90">
+        <a href="https://www.linkedin.com/in/lane-g-smith" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lane Smith Linkedin" height="30" width="30"/></a> 
         <br/><strong>LinkedIn</strong>
     </td>
-    <td align="center" height="105" width="105">
-       <a href="https://www.instagram.com/lanegpersonal/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="48" width="48"/></a>
+    <td align="center" height="90" width="90">
+       <a href="https://www.instagram.com/lanegpersonal/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="30" width="30"/></a>
        <br/><strong>Instagram</strong>
     </td>
-    <td align="center" height="105" width="105">
-        <a href="https://www.lanegphotography.com/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Lane G Photography" height="48" width="48"/></a> 
+    <td align="center" height="90" width="90">
+        <a href="https://www.lanegphotography.com/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Lane G Photography" height="30" width="30"/></a> 
         <br/><strong>My Photography</strong>
     </td>
-     <td align="center" height="105" width="105">
-        <a href="https://www.hackerrank.com/Lane_G_Smith?hr_r=1"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@Lane-G-Smith" height="48" width="48" /></a>
+     <td align="center" height="90" width="90">
+        <a href="https://www.hackerrank.com/Lane_G_Smith?hr_r=1"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@Lane-G-Smith" height="30" width="30" /></a>
        <br/><strong>Hacker Rank</strong>
     </td>
-    <td align="center" height="105" width="105">
-       <a href="https://leetcode.com/Lane_G_Smith"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/102px-LeetCode_logo_white_no_text.svg.png?20200120234911" alt="@Lane-G-Smith" height="48" width="48" /></a> 
+    <td align="center" height="90" width="90">
+       <a href="https://leetcode.com/Lane_G_Smith"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/102px-LeetCode_logo_white_no_text.svg.png?20200120234911" alt="@Lane-G-Smith" height="30" width="30" /></a> 
        <br/><strong>LeetCode</strong>
     </td>
-    <td align="center" height="105" width="105">
-      <a href="https://codepen.io/lane-g-smith" ><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="@Lane-G-Smith" height="48" width="48" /></a> 
+    <td align="center" height="90" width="90">
+      <a href="https://codepen.io/lane-g-smith" ><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="@Lane-G-Smith" height="30" width="30" /></a> 
         <br/><strong>Code Pen</strong>
     </td>
-    <td align="center" height="105" width="105">
-        <a href="https://stackoverflow.com/users/20933021/lane-g-smith" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Lane Smith" height="48" width="48" /></a>
+    <td align="center" height="90" width="90">
+        <a href="https://stackoverflow.com/users/20933021/lane-g-smith" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Lane Smith" height="30" width="30" /></a>
         <br/><strong>Stack Overflow</strong>
     </td>
-    <td align="center" height="105" width="105">
-        <a href="https://replit.com/@Lane-G-Smith" ><img align="center" src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" height="48" width="58" /></a>
+    <td align="center" height="90" width="90">
+        <a href="https://replit.com/@Lane-G-Smith" ><img align="center" src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" height="30" width="40" /></a>
         <br/><strong>Replit</strong>
     </td> 
   </tr>
