@@ -120,7 +120,7 @@
     </td
   </tr>
 </table>
-# 🔧 Technologies & Tools I Am Learning To Use
+# 🔧 Technologies & Tools I Am Currently Learning To Use
 <br>
 <br>
 <table>
