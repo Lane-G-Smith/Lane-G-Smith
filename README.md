@@ -197,6 +197,79 @@
         <br /><strong>SASS</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" height="90" width="90">
+        <img
+        src="https://avatars.githubusercontent.com/u/7552965?s=88&v=4"
+        width="30"
+        height="30"
+        />
+        <br/><strong>Mongoose</strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img
+        src="https://vitest.dev/logo.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>Vitest</strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img
+        src=""
+        width="30"
+        height="30"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img
+        src=""
+        width="30"
+        height="30"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img
+        src=""
+        width="30"
+        height="30"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img
+        src=""
+        width="30"
+        height="30"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img
+        src=""
+        width="30"
+        height="30"
+        />
+        <br/><strong></strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img     src=""
+       width="30"
+        height="30"
+        />
+        <br /><strong></strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img
+        src=""
+        width="30"
+        height="30"
+        />
+        <br /><strong></strong>
+    </td>
+  </tr>
 </table>
 # 📈 GitHub Stats
 <br>
