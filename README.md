@@ -214,61 +214,6 @@
         />
         <br/><strong>Vitest</strong>
     </td>
-    <td align="center" height="90" width="90">
-        <img
-        src=""
-        width="30"
-        height="30"
-        />
-        <br/><strong></strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src=""
-        width="30"
-        height="30"
-        />
-        <br/><strong></strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src=""
-        width="30"
-        height="30"
-        />
-        <br/><strong></strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src=""
-        width="30"
-        height="30"
-        />
-        <br/><strong></strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src=""
-        width="30"
-        height="30"
-        />
-        <br/><strong></strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img     src=""
-       width="30"
-        height="30"
-        />
-        <br /><strong></strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src=""
-        width="30"
-        height="30"
-        />
-        <br /><strong></strong>
-    </td>
   </tr>
 </table>
 # 📈 GitHub Stats
