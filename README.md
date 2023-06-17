@@ -61,8 +61,6 @@
         />
         <br/><strong>Node.js</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="90" width="90">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
@@ -71,6 +69,8 @@
         />
         <br/><strong>Npm</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="90" width="90">
         <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/1024px-Google_Chrome_icon_%28September_2014%29.svg.png"
@@ -117,7 +117,15 @@
         height="30"
         />
         <br/><strong>React</strong>
-    </td
+    </td>
+       <td align="center" height="90" width="90">
+        <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>MongoDB</strong>
+    </td>
   </tr>
 </table>
 # 🔧 Technologies & Tools I Am Currently Learning To Use
@@ -156,14 +164,6 @@
         height="30"
         />
         <br/><strong>Express</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>MongoDB</strong>
     </td>
     <td align="center" height="90" width="90">
         <img
