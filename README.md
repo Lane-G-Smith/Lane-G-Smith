@@ -69,6 +69,14 @@
         />
         <br/><strong>Npm</strong>
     </td>
+    <td align="center" height="90" width="90">
+        <img
+        src="https://www.svgrepo.com/show/354202/postman-icon.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>Postman</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="90" width="90">
@@ -118,13 +126,29 @@
         />
         <br/><strong>React</strong>
     </td>
-       <td align="center" height="90" width="90">
+    <td align="center" height="90" width="90">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         width="30"
         height="30"
         />
         <br/><strong>MongoDB</strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img
+        src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png"
+        width="30"
+        height="30"
+        />
+        <br/><strong>Nodemon</strong>
+    </td>
+        <td align="center" height="90" width="90">
+        <img
+        src="https://avatars.githubusercontent.com/u/7552965?s=88&v=4"
+        width="30"
+        height="30"
+        />
+        <br/><strong>Mongoose</strong>
     </td>
   </tr>
 </table>
@@ -198,14 +222,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://avatars.githubusercontent.com/u/7552965?s=88&v=4"
-        width="30"
-        height="30"
-        />
-        <br/><strong>Mongoose</strong>
-    </td>
     <td align="center" height="90" width="90">
         <img
         src="https://vitest.dev/logo.svg"
