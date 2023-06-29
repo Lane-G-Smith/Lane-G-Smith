@@ -288,7 +288,7 @@ In my last semester, I decided that medical school wasn't for me.<br>
        <br/><strong>Instagram</strong>
     </td>
     <td align="center" height="90" width="90">
-        <a href="https://www.cactusmountainmedia.com/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Lane G Photography" height="30" width="30"/></a> 
+        <a href="https://www.cactusmountainstudio.com/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Lane G Photography" height="30" width="30"/></a> 
         <br/><strong>My Photography</strong>
     </td>
      <td align="center" height="90" width="90">
