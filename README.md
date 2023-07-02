@@ -214,7 +214,7 @@
     </td>
     <td align="center" height="90" width="90">
         <img
-        src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"
+        src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"
         width="30"
         height="30"
         />
