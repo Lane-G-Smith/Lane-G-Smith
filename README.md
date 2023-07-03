@@ -253,16 +253,7 @@ I was a whitewater raft guide near Yosemite & Grand Canyon National Parks.<br>
 I was a backcountry snowmobile guide in the Sierra Nevada Mountains.<br>
 I ran a small boat marina and lived for 6 years at over 10,000ft elevation.<br>
 I am decent at playing the guitar, bass, piano & drums. I also sing....terribly.<br>
-I was a Certified Nursing Assistant & EMT with wilderness-EMT & first-responser certifications.<br>
-<h3 align="left">What I'm currently working on</h3>
-<h4 align="left">Open-For-Business, a full stack web application for my own business that will feature:</h4>
--Storage and organization of photo and video files<br>
--Authentication for clients to access and download photo & video files<br>
--Seamless presentation and manipulation of photo & video content on business website<br>
--Manage contracts & contacts<br>
--Scheduling with integration of the google calendar API<br>
--Financial charts and bookkeeping functionality<br>
--Milestone based creative flow pipeline.<br>
+I was a Certified Nursing Assistant & EMT with wilderness-EMT & first-responder certifications.<br>
 <h4 align="left">Contiuing education through online learning platforms such as:</h4>
 -The Odin Project<br>
 -Free Code Camp<br>
