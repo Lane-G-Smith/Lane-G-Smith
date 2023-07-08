@@ -61,9 +61,7 @@
         />
         <br/><strong>Node.js</strong>
     </td>
-  </tr>
-  <tr>
-    <td align="center" height="90" width="90">
+        <td align="center" height="90" width="90">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
         width="30"
@@ -71,6 +69,8 @@
         />
         <br/><strong>Npm</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="90" width="90">
         <img
         src="https://www.svgrepo.com/show/354202/postman-icon.svg"
@@ -119,9 +119,7 @@
         />
         <br/><strong>Webpack</strong>
     </td>
-    </tr>
-  <tr>
-    <td align="center" height="90" width="90">
+        <td align="center" height="90" width="90">
         <img
         src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg"
         width="30"
@@ -129,6 +127,16 @@
         />
         <br/><strong>Babel</strong>
     </td>
+        <td align="center" height="90" width="90">
+        <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>React</strong>
+    </td>
+    </tr>
+  <tr>
     <td align="center" height="90" width="90">
         <img
         src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"
@@ -136,14 +144,6 @@
         height="30"
         />
         <br/><strong>Vite</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>React</strong>
     </td>
     <td align="center" height="90" width="90">
         <img
@@ -177,8 +177,6 @@
         />
         <br/><strong>TypeScript</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="90" width="90">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
