@@ -61,6 +61,8 @@
         />
         <br/><strong>Node.js</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="90" width="90">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
@@ -77,8 +79,6 @@
         />
         <br/><strong>Postman</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="90" width="90">
         <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/1024px-Google_Chrome_icon_%28September_2014%29.svg.png"
@@ -86,6 +86,7 @@
         height="30"
         />
         <br/><strong>DevTools</strong>
+    </td>
     <td align="center" height="90" width="90">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
@@ -96,12 +97,30 @@
     </td>
     <td align="center" height="90" width="90">
         <img
+        src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"
+        width="30"
+        height="30"
+        />
+        <br /><strong>SASS</strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img
+        src="https://vitest.dev/logo.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>Vitest</strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img
         src="https://raw.githubusercontent.com/webpack/media/3e52c178e6ad2428585a2cbf5d22d6dbe0697f0f/logo/icon-square-big.svg"
         width="30"
         height="30"
         />
         <br/><strong>Webpack</strong>
     </td>
+    </tr>
+  <tr>
     <td align="center" height="90" width="90">
         <img
         src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg"
@@ -150,7 +169,25 @@
         />
         <br/><strong>Mongoose</strong>
     </td>
+        <td align="center" height="90" width="90">
+        <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>TypeScript</strong>
+    </td>
   </tr>
+  <tr>
+    <td align="center" height="90" width="90">
+        <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>Express</strong>
+    </td>
+  
 </table>
 # 🔧 Technologies & Tools I Am Currently Learning To Use
 <br>
@@ -175,22 +212,6 @@
     </td>
     <td align="center" height="90" width="90">
         <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>Express</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="30"
         height="30"
@@ -211,24 +232,6 @@
         height="30"
         />
         <br /><strong>NextJS</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"
-        width="30"
-        height="30"
-        />
-        <br /><strong>SASS</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://vitest.dev/logo.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>Vitest</strong>
     </td>
   </tr>
 </table>
