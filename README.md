@@ -47,7 +47,7 @@
     </td> 
     <td align="center" height="90" width="90">
         <img
-        src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"
+        src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"
         width="30"
         height="30"
         />
@@ -55,7 +55,7 @@
     </td>
     <td align="center" height="90" width="90">
         <img
-        src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
         width="30"
         height="30"
         />
