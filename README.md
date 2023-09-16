@@ -31,27 +31,35 @@
     </td>
     <td align="center" height="90" width="90">
         <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>React</strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="30"
         height="30"
         />
         <br/><strong>Git</strong>
     </td>
-    <td align="center" height="90" width="90">
+        <td align="center" height="90" width="90">
         <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-       width="30"
-        height="30"
-        />
-        <br/><strong>Bootstrap</strong>
-    </td> 
-    <td align="center" height="90" width="90">
-        <img
-        src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="30"
         height="30"
         />
-        <br/><strong>Tailwind</strong>
+        <br/><strong>Express</strong>
+    </td>
+        <td align="center" height="90" width="90">
+        <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>MongoDB</strong>
     </td>
     <td align="center" height="90" width="90">
         <img
@@ -61,33 +69,9 @@
         />
         <br/><strong>Node.js</strong>
     </td>
-        <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>Npm</strong>
-    </td>
   </tr>
   <tr>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://www.svgrepo.com/show/354202/postman-icon.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>Postman</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/1024px-Google_Chrome_icon_%28September_2014%29.svg.png"
-        width="30"
-        height="30"
-        />
-        <br/><strong>DevTools</strong>
-    </td>
-    <td align="center" height="90" width="90">
+        <td align="center" height="90" width="90">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="30"
@@ -95,6 +79,30 @@
         />
         <br/><strong>Jest</strong>
     </td>
+        <td align="center" height="90" width="90">
+        <img
+        src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>Tailwind</strong>
+    </td>
+            <td align="center" height="90" width="90">
+        <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>Npm</strong>
+    </td>
+        <td align="center" height="90" width="90">
+        <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+       width="30"
+        height="30"
+        />
+        <br/><strong>Bootstrap</strong>
+    </td> 
     <td align="center" height="90" width="90">
         <img
         src="https://cdn.freebiesupply.com/logos/thumbs/2x/sass-1-logo.png"
@@ -127,14 +135,6 @@
         />
         <br/><strong>Babel</strong>
     </td>
-        <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>React</strong>
-    </td>
     </tr>
   <tr>
     <td align="center" height="90" width="90">
@@ -144,22 +144,6 @@
         height="30"
         />
         <br/><strong>Vite</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png"
-        width="30"
-        height="30"
-        />
-        <br/><strong>Nodemon</strong>
     </td>
         <td align="center" height="90" width="90">
         <img
@@ -171,19 +155,19 @@
     </td>
         <td align="center" height="90" width="90">
         <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/1024px-Google_Chrome_icon_%28September_2014%29.svg.png"
+        width="30"
+        height="30"
+        />
+        <br/><strong>DevTools</strong>
+    </td>
+        <td align="center" height="90" width="90">
+        <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="30"
         height="30"
         />
         <br/><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>Express</strong>
     </td>
     <td align="center" height="90" width="90">
         <img     src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67"
@@ -199,46 +183,15 @@
         />
         <br /><strong>DiscordJS</strong>
   </td>
+        <td align="center" height="90" width="90">
+        <img
+        src="https://www.svgrepo.com/show/354202/postman-icon.svg"
+        width="30"
+        height="30"
+        />
+        <br/><strong>Postman</strong>
+    </td>
   </tr>  
-</table>
-# 🔧 Technologies & Tools I Am Currently Learning To Use
-<br>
-<br>
-<table>
-  <tr>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>Redux</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>Material UI</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="30"
-        height="30"
-        />
-        <br/><strong>Firebase</strong>
-    </td>
-  </tr>
 </table>
 # 📈 GitHub Stats
 <br>
