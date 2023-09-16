@@ -1,9 +1,41 @@
-<h1 align="center">Hello! I'm Lane G Smith</h1>
-<h2 align="center">Photographer, Videographer, Developer, Musician, Outdoorsman</h2>
+<h1 align="center">Lane G Smith</h1>
+<h2 align="center">Project Manager, Web Developer, Entrepreneur</h2>
+<br>
+# 👋 Connect with me
+<br>
+<br>
+<table>
+  <tr>
+    <td align="center" height="90" width="90">
+        <a href="https://www.linkedin.com/in/lane-g-smith" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lane Smith Linkedin" height="30" width="30"/></a> 
+        <br/><strong>LinkedIn</strong>
+    </td>
+    <td align="center" height="90" width="90">
+       <a href="https://www.instagram.com/lanegpersonal/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="30" width="30"/></a>
+       <br/><strong>Instagram</strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <a href="https://lanesmith.info/" ><img align="center" src="https://photos.smugmug.com/External-Website-Photos/n-MK8QBN/Github/i-VQbrMTM/0/6214302a/X2/About_Us_Personal_CactusMountainStudio%20%2874%29-X2.jpg" alt="" height="30" width="30"/></a> 
+        <br/><strong>Portfolio</strong>
+    </td>
+    <td align="center" height="90" width="90">
+       <a href="https://leetcode.com/Lane_G_Smith"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/102px-LeetCode_logo_white_no_text.svg.png?20200120234911" alt="@Lane-G-Smith" height="30" width="30" /></a> 
+       <br/><strong>LeetCode</strong>
+    </td>
+    <td align="center" height="90" width="90">
+      <a href="https://codepen.io/lane-g-smith" ><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="@Lane-G-Smith" height="30" width="30" /></a> 
+        <br/><strong>CodePen</strong>
+    </td>
+    <td align="center" height="90" width="90">
+        <a href="https://replit.com/@Lane-G-Smith" ><img align="center" src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" height="30" width="40" /></a>
+        <br/><strong>Replit</strong>
+    </td>
+  </tr>
+</table>
 # 🔧 Technologies & Tools I Use
 <br>
 <br>
-<table width="630">
+<table >
   <tr>
     <td align="center" height="90" width="90">
       <img background-color="#fff"
@@ -193,6 +225,7 @@
     </td>
   </tr>  
 </table>
+<br>
 # 📈 GitHub Stats
 <br>
 <br>
@@ -235,34 +268,3 @@ Certified Nursing Assistant & EMT with wilderness-EMT & first-responder certific
 -Udemy (Maximilian Schwarzmuller, Angela Yu, Colt Steele)<br>
 -Youtube (Traversy Media, The Net Ninja, Web Dev Simplified)<br>
 </p>
-# 👋 Connect with me
-<br>
-<br>
-<table>
-  <tr>
-    <td align="center" height="90" width="90">
-        <a href="https://www.linkedin.com/in/lane-g-smith" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lane Smith Linkedin" height="30" width="30"/></a> 
-        <br/><strong>LinkedIn</strong>
-    </td>
-    <td align="center" height="90" width="90">
-       <a href="https://www.instagram.com/lanegpersonal/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="30" width="30"/></a>
-       <br/><strong>Instagram</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <a href="https://lanesmith.info/" ><img align="center" src="https://photos.smugmug.com/External-Website-Photos/n-MK8QBN/Github/i-VQbrMTM/0/6214302a/X2/About_Us_Personal_CactusMountainStudio%20%2874%29-X2.jpg" alt="" height="30" width="30"/></a> 
-        <br/><strong>Portfolio</strong>
-    </td>
-    <td align="center" height="90" width="90">
-       <a href="https://leetcode.com/Lane_G_Smith"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/102px-LeetCode_logo_white_no_text.svg.png?20200120234911" alt="@Lane-G-Smith" height="30" width="30" /></a> 
-       <br/><strong>LeetCode</strong>
-    </td>
-    <td align="center" height="90" width="90">
-      <a href="https://codepen.io/lane-g-smith" ><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="@Lane-G-Smith" height="30" width="30" /></a> 
-        <br/><strong>CodePen</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <a href="https://replit.com/@Lane-G-Smith" ><img align="center" src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" height="30" width="40" /></a>
-        <br/><strong>Replit</strong>
-    </td>
-  </tr>
-</table>
