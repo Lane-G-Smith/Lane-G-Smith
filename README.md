@@ -203,18 +203,29 @@
   </div>
 <h3 align="left">About Me</h3>
 <p align="left">
-I am originally from California but currently live in Sedona Arizona.<br>
-I started programming in mid-2022 as a means to fix my photography business website.<br>
-I hope to switch careers and develop full-time with a focus on the front end using modern javascript frameworks.<br>
-I am new and still learning, but progressing every day.<br>
-I am open to collaboration, networking & volunteering.<br>
-I am actively looking for work opportunities.<br>
+Proven ability to manage multiple projects simultaneously and deliver results on time and within budget. Strong leadership skills, with a track record of driving team productivity and performance. Exceptional problem-solving skills with a keen eye for detail. Possess high-level analytical skills that have increased efficiency and improved overall business performance. I am seeking a challenging role in web development to apply and expand my skills and expertise.
+
+Professional Skills And Experience:<be>
+
+🔹 Manage, schedule, direct, and lead teams of up to 20 employees.<br>
+🔹 Direct and delegate collaborative tasks.<br>
+🔹 Excellent communication and conflict-resolution skills.<br>
+🔹 Strong attention to detail.<br>
+🔹 Ability to cultivate and manage relationships with clients, employees, and vendors.<br>
+🔹 Adaptable, reliable, and flexible in dynamic environments.<br>
+🔹 High-level analytical skills.<br>
+🔹 Experience in risk management.<br>
+🔹 Ability to effectively delegate tasks.<br>
+🔹 Strong leadership abilities.<br>
+🔹 Strong organizational skills.<br>
+🔹 Experience in strategic planning and business development.<br>
+🔹 Self-motivated, self-starter, able to work independently<br>
 <h3>Interesting Facts About Me*</h3>
-I was a whitewater raft guide near Yosemite & Grand Canyon National Parks.<br>
+Experienced whitewater raft guide near Yosemite & Grand Canyon National Parks.<br>
 I was a backcountry snowmobile guide in the Sierra Nevada Mountains.<br>
-I ran a small boat marina and lived for 6 years at over 10,000ft elevation.<br>
+I lived for six years at over 9,000ft elevation.<br>
 I am decent at playing the guitar, bass, piano & drums. I also sing....terribly.<br>
-I was a Certified Nursing Assistant & EMT with wilderness-EMT & first-responder certifications.<br>
+Certified Nursing Assistant & EMT with wilderness-EMT & first-responder certifications.<br>
 <h4 align="left">Contiuing education through online learning platforms such as:</h4>
 -The Odin Project<br>
 -Free Code Camp<br>
@@ -238,12 +249,8 @@ I was a Certified Nursing Assistant & EMT with wilderness-EMT & first-responder 
        <br/><strong>Instagram</strong>
     </td>
     <td align="center" height="90" width="90">
-        <a href="https://www.cactusmountainstudio.com/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Lane G Photography" height="30" width="30"/></a> 
-        <br/><strong>My Photography</strong>
-    </td>
-     <td align="center" height="90" width="90">
-        <a href="https://www.hackerrank.com/Lane_G_Smith?hr_r=1"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="@Lane-G-Smith" height="30" width="30" /></a>
-       <br/><strong>Hacker Rank</strong>
+        <a href="https://lanesmith.info/" ><img align="center" src="https://photos.smugmug.com/External-Website-Photos/n-MK8QBN/Github/i-VQbrMTM/0/6214302a/X2/About_Us_Personal_CactusMountainStudio%20%2874%29-X2.jpg" alt="" height="30" width="30"/></a> 
+        <br/><strong>Portfolio</strong>
     </td>
     <td align="center" height="90" width="90">
        <a href="https://leetcode.com/Lane_G_Smith"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/102px-LeetCode_logo_white_no_text.svg.png?20200120234911" alt="@Lane-G-Smith" height="30" width="30" /></a> 
@@ -251,15 +258,11 @@ I was a Certified Nursing Assistant & EMT with wilderness-EMT & first-responder 
     </td>
     <td align="center" height="90" width="90">
       <a href="https://codepen.io/lane-g-smith" ><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="@Lane-G-Smith" height="30" width="30" /></a> 
-        <br/><strong>Code Pen</strong>
-    </td>
-    <td align="center" height="90" width="90">
-        <a href="https://stackoverflow.com/users/20933021/lane-g-smith" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Lane Smith" height="30" width="30" /></a>
-        <br/><strong>Stack Overflow</strong>
+        <br/><strong>CodePen</strong>
     </td>
     <td align="center" height="90" width="90">
         <a href="https://replit.com/@Lane-G-Smith" ><img align="center" src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" height="30" width="40" /></a>
         <br/><strong>Replit</strong>
-    </td> 
+    </td>
   </tr>
 </table>
