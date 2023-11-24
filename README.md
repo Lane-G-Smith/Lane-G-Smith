@@ -27,7 +27,7 @@
         <br/><strong>CodePen</strong>
     </td>
     <td align="center" height="90" width="90">
-        <a href="https://replit.com/@Lane-G-Smith" ><img align="center" src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" height="30" width="40" /></a>
+        <a href="https://replit.com/@Lane-G-Smith" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/2048px-New_Replit_Logo.svg.png" height="30" width="40" /></a>
         <br/><strong>Replit</strong>
     </td>
   </tr>
