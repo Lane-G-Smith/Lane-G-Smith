@@ -15,7 +15,7 @@
        <br/><strong>Instagram</strong>
     </td>
     <td align="center" height="90" width="90">
-        <a href="https://lanesmith.info/" ><img align="center" src="https://photos.smugmug.com/External-Website-Photos/n-MK8QBN/Github/i-VQbrMTM/0/6214302a/X2/About_Us_Personal_CactusMountainStudio%20%2874%29-X2.jpg" alt="" height="30" width="30"/></a> 
+        <a href="https://lanesmith.info/" ><img align="center" src="https://www.lanesmith.info/assets/ProfilePhoto.jpg" alt="" height="30" width="30"/></a> 
         <br/><strong>Portfolio</strong>
     </td>
     <td align="center" height="90" width="90">
