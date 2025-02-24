@@ -202,14 +202,14 @@
         <br/><strong>TypeScript</strong>
     </td>
     <td align="center" height="90" width="90">
-        <img     src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67"
+        <img     src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4"
        width="30"
         height="30"
         />
         <br /><strong>NextJS</strong>
   </td>
   <td align="center" height="90" width="90">
-        <img     src="https://camo.githubusercontent.com/2993f7180d5cc3231060f66cfa1f0f65a1d09c0efd68d08d0190902ba9200d81/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335333635352f646973636f72642d69636f6e2e737667"
+        <img     src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"
        width="30"
         height="30"
         />
