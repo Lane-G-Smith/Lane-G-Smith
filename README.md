@@ -11,10 +11,6 @@
         <br/><strong>LinkedIn</strong>
     </td>
     <td align="center" height="90" width="90">
-       <a href="https://www.instagram.com/lanegpersonal/" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="30" width="30"/></a>
-       <br/><strong>Instagram</strong>
-    </td>
-    <td align="center" height="90" width="90">
         <a href="https://lanesmith.info/" ><img align="center" src="https://www.lanesmith.info/assets/ProfilePhoto.jpg" alt="" height="30" width="30"/></a> 
         <br/><strong>Portfolio</strong>
     </td>
