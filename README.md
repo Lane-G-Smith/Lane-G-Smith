@@ -12,7 +12,7 @@
     </td>
     <td align="center" height="90" width="90">
         <a href="https://lanesmith.info/" ><img align="center" src="https://www.lanesmith.info/assets/ProfilePhoto.jpg" alt="" height="30" width="30"/></a> 
-        <br/><strong>Portfolio</strong>
+        <br/><strong>Website</strong>
     </td>
     <td align="center" height="90" width="90">
        <a href="https://leetcode.com/Lane_G_Smith"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/102px-LeetCode_logo_white_no_text.svg.png?20200120234911" alt="@Lane-G-Smith" height="30" width="30" /></a> 
