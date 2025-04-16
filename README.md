@@ -1,5 +1,5 @@
 <h1 align="center">Lane G Smith</h1>
-<h2 align="center">Operations Manager | Recreation Specialist | Professional Photographer | Junior Software Developer | Entrepreneur</h2>
+<h2 align="center">Operations Manager | Recreation Specialist | Professional Photographer | Junior Software Developer | Small Engine Technician | Entrepreneur</h2>
 <br>
 <br>
 <br>
